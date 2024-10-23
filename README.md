@@ -7,7 +7,7 @@
 # <h1 align=center>**`SINIESTROS VIALES FATALES EN LA CIUDAD DE BUENOS AIRES`**</h1>
 
 <p align="center">
-<img src="imagenes\mapa.png" height=500>
+<img src="imagenes\Mapa.png" height=500>
 </p>
 
 <p align="center">
